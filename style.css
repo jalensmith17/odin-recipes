@@ -1,0 +1,19 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 1px 1px 1px 1px;
+    background: lightsalmon;
+    opacity: .9;
+    margin: 1px 100px 10px 100px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.food {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+
+html {
+    background-color: antiquewhite;
+}
